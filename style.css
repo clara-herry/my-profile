@@ -1,15 +1,15 @@
 body{
     background: rgb(63,94,251);
     background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-    font-family: Helvetica, sans-serif;
+    font-family: 'Lora', sans-serif;
     line-height: 1.2;
     font-weight: 100;
     color: #444444;
 }
 
-h1, h2 {
-    font-family: 'Roboto';
+h1,h2 {
     color: #555555;
+    font-family: 'Roboto', serif;
 }
 
 h2 {
@@ -35,7 +35,7 @@ ul {
 
 li {
     text-align: left;
-    line-height: 125%;
+    line-height: 150%;
 }
 
 
@@ -68,7 +68,7 @@ li {
     padding: 40px auto;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
     border-radius: 4px;
-    margin: 20px 0px;
+    margin: 20px 10px;
     text-align: center;
     border:1px solid #dddddd;
 }
@@ -118,3 +118,7 @@ li {
 #introduction  p{
     margin-bottom: 40px;
 }
+
+
+
+  
